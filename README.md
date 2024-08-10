@@ -1,6 +1,4 @@
 # vinnygpt
-old chat gpt client i made for school. 
-html, css, and js.
-used this to learn about apis.
-requires api keys.
-get one from https://platform.openai.com/api-keys
+old website i used to learn about apis. (and use chatgpt during school)
+uses basic html, css, and js.
+requires a openai api key.
